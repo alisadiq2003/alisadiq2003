@@ -1,12 +1,12 @@
 ### Hi there 👋
-I'm Ali Sadiq, Student at 👨‍💻 PUCIT Pursuing BS Software Engineering. I am tech enthusiast.
+I'm Ali Sadiq, and currently student of Computer Science at Kips College. I am tech enthusiast.
 
 <p><img src="https://github.com/alisadiq2003/alisadiq2003/blob/main/gif_image.gif" alt="Gif" width="500" height="320"></p>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ayesha-rashid-56647b1a6/">
+  <a href="https://www.linkedin.com/in/ali-sadiq-ba9013237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Wooble_Doodle">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -14,12 +14,9 @@ I'm Ali Sadiq, Student at 👨‍💻 PUCIT Pursuing BS Software Engineering. I 
 
 **🧐ABOUT ME**🚀
 ________________________________________________________________________
-- 🔭 I’m Currently doing Software Engineering
-- 🌱 I’m Google developer Student Club Ambassador at PUCIT
-- 👯 I’m Community member at Microsoft Learn Student Ambassador
-- 🌱 I’m Currently working as a remote intern at ITSolz
+- 🔭 I’m Currently Studing Computer Science
+- 🌱 In matriculation, I got 3rd position in Sahiwal Board.
 - ⚡ I m tech enthusiast.
-- ✍️ Programming Fundamentals Teaching Assistant
 
 ### :hammer_and_wrench: Languages and Tools :
 ________________________________________________________________________
@@ -33,9 +30,10 @@ ________________________________________________________________________
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
 ### :fire: Github Analytics :
 _______________________________________________________________________
-[![GitHub Streak](https://streak-stats.demolab.com?user=AyeshaRashid208&theme=highcontrast)](https://git.io/streak-stats)
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=AyeshaRashid208&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alisadiq2003&theme=highcontrast)](https://git.io/streak-stats)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=alisadiq2003&theme=highcontrast)
